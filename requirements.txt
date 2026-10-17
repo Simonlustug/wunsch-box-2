@@ -2,4 +2,3 @@ Flask
 tidalapi
 gunicorn
 requests
-gunicorn app:app
